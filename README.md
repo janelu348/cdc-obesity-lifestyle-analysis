@@ -6,6 +6,14 @@ This project studies the relationship between adult obesity, physical inactivity
 
 The analysis uses aggregated estimates from the CDC Behavioral Risk Factor Surveillance System for 2017, 2019, and 2021.
 
+## Live Dashboard
+
+Explore the data using the interactive Streamlit dashboard:
+
+[Open the Interactive Dashboard](https://cdc-obesity-lifestyle.streamlit.app/)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cdc-obesity-lifestyle.streamlit.app/)
+
 ## Research Question
 
 How are physical inactivity and low fruit consumption associated with adult obesity prevalence across U.S. states and demographic groups?
